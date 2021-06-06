@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rhm30\\source\\repos\\MVCProject1\\MVCProject1\\MVCProject1.csproj": {}
+    "C:\\Users\\rhm30\\OneDrive\\Desktop\\Tuwiq\\unit_Testing\\MVCProject1\\MVCProject1\\MVCProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rhm30\\source\\repos\\MVCProject1\\MVCProject1\\MVCProject1.csproj": {
+    "C:\\Users\\rhm30\\OneDrive\\Desktop\\Tuwiq\\unit_Testing\\MVCProject1\\MVCProject1\\MVCProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rhm30\\source\\repos\\MVCProject1\\MVCProject1\\MVCProject1.csproj",
+        "projectUniqueName": "C:\\Users\\rhm30\\OneDrive\\Desktop\\Tuwiq\\unit_Testing\\MVCProject1\\MVCProject1\\MVCProject1.csproj",
         "projectName": "MVCProject1",
-        "projectPath": "C:\\Users\\rhm30\\source\\repos\\MVCProject1\\MVCProject1\\MVCProject1.csproj",
+        "projectPath": "C:\\Users\\rhm30\\OneDrive\\Desktop\\Tuwiq\\unit_Testing\\MVCProject1\\MVCProject1\\MVCProject1.csproj",
         "packagesPath": "C:\\Users\\rhm30\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rhm30\\source\\repos\\MVCProject1\\MVCProject1\\obj\\",
+        "outputPath": "C:\\Users\\rhm30\\OneDrive\\Desktop\\Tuwiq\\unit_Testing\\MVCProject1\\MVCProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rhm30\\AppData\\Roaming\\NuGet\\NuGet.Config",
